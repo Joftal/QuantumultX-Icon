@@ -13,7 +13,7 @@
 
 ADGuard.png
 
-远程修改地址img-url=https://raw.githubusercontent.com/Aoyt520/jiumeiquanX/master/quanX/Telegram.png 请注意图标名称大小写！.
+远程修改地址img-url=https://raw.githubusercontent.com/wangzaicake/QuantumultX-Icon/master/QX-Icon/ADGuard.png 请注意图标名称大小写！.
 
 ![Image text](https://s3.ax1x.com/2021/01/12/sJgTVf.png)
 
