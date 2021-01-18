@@ -13,7 +13,7 @@
 
 ADGuard.png
 
-远程修改地址img-url=https://raw.githubusercontent.com/wangzaicake/QuantumultX-Icon/master/QX-Icon/ADGuard.png 请注意图标名称大小写！.
+远程修改地址img-url=https://raw.githubusercontent.com/wangzaicake/QuantumultX-Icon/master/QX-Icon/ADGuard.png 请注意图标名称大小写！
 
 ![Image text](https://s3.ax1x.com/2021/01/12/sJgTVf.png)
 
@@ -25,4 +25,4 @@ QuantumultX-Icon项目内所涉及的相关元素、图标仅作为测试和学�
 
 本人不对QuantumultX-Icon项目承担任何责任；
 
-任何人通过任何方式登陆本网站或直接、间接使用QuantumultX-Icon项目相关资源，均应仔细阅读本声明
+任何人通过任何方式登陆本网站或直接、间接使用QuantumultX-Icon项目相关资源，均应仔细阅读本声明！！
